@@ -4,31 +4,31 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>AppCenter.xcscheme</key>
+		<key>AppCenter.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>Pods-RetirementCalculator-RetirementCalculatorUITests.xcscheme</key>
+		<key>Pods-RetirementCalculator-RetirementCalculatorUITests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-		<key>Pods-RetirementCalculator.xcscheme</key>
+		<key>Pods-RetirementCalculator.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>Pods-RetirementCalculatorTests.xcscheme</key>
+		<key>Pods-RetirementCalculatorTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>

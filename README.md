@@ -1,4 +1,4 @@
 # CICDiOS
 Test iOS CI/CD
 
-[![Build status](https://build.appcenter.ms/v0.1/apps/93e8fb48-e3e7-4f1e-98da-37e7966fee61/branches/dev/badge)](https://appcenter.ms)
+[![Build status](https://build.appcenter.ms/v0.1/apps/57315955-c2bf-43e5-aa05-7f7fe6c1a305/branches/feature-2/badge)](https://appcenter.ms)
